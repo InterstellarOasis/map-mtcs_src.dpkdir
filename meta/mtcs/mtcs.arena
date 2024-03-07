@@ -1,5 +1,6 @@
 {
-  map       "mtcs"
-  longname  "Modern Tactical Combat Simulator"
-  type      "tremulous"
+	map "mtcs"
+	longname "Modern Tactical Combat Simulator"
+	type "tremulous"
+	author "Gucior"
 }
