@@ -10,6 +10,3 @@ textures/tremor_bygucior/drabina
 	surfaceparm noimpact
 	surfaceparm playerclip
 }	
-
-
-
