@@ -14,4 +14,5 @@ E-mail: walkmanaka@gmail.com
 
 ---- LICENSE ---------------------------------------------------
 
-Map licensed under CC-BY 4.0.
+Map licensed under CC-BY 4.0, except the files in textures/gloom2
+and textures/dsarena.
